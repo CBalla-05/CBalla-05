@@ -26,8 +26,8 @@
 - **Problema que resuelve:** Ayuda a principiantes a aprender Go dando retroalimentación clara sobre los errores en su código.
 - **Tecnologías:** Python, Go, PLY.
 - **Funcionalidades principales:**
-  - [Qué detecta: errores léxicos, sintácticos, y semánticos]
-  - [Cómo responde: mensajes explicativos para principiantes]
+  - Detecta errores léxicos, sintácticos, y semánticos.
+  - Responde con mensajes explicativos para principiantes.
 - **Mi rol:** Miembro del equipo de desarrollo.
 - **Repositorio:** [Ver código](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
 
@@ -63,3 +63,6 @@
 - **Repositorio:** [Ver código](https://github.com/JonathanRamos24/ProyectoMD)
 
 ## Contacto
+
+- **LinkedIn:** [César Balladares](www.linkedin.com/in/césar-balladares-caicedo-54b984346)
+- **Correo:** [cesballa@espol.edu.ec](cesballa@espol.edu.ec).
