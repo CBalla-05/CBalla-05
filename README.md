@@ -6,7 +6,7 @@
 - Actualmente estoy aprendiendo React, JavaScript y TypeScript.
 - Me interesan el desarrollo web, el diseño UX, la ciberseguridad y la computación en la nube.
 - Busco poner en práctica lo que aprendo en proyectos reales y en trabajo en equipo.
-- **Idiomas:** español (nativo), inglés (B1) y estoy aprendiendo portugués.
+- **Idiomas:** español (nativo), inglés (B1) y quisiera aprender portugués.
 - **Fuera del código:** me gusta escuchar música, ver películas y jugar videojuegos.
 
 ## Habilidades y tecnologías
@@ -17,8 +17,6 @@
 | Frontend | HTML, CSS |
 | Herramientas | Git, GitHub, VS Code, Figma |
 | Aprendiendo | JavaScript, TypeScript, React, Go |
-
-## Proyectos destacados
 
 ## Proyectos destacados
 
@@ -65,4 +63,4 @@
 ## Contacto
 
 - **LinkedIn:** [César Balladares](www.linkedin.com/in/césar-balladares-caicedo-54b984346)
-- **Correo:** [cesballa@espol.edu.ec](cesballa@espol.edu.ec).
+- **Correo:** [cesballa@espol.edu.ec](cesballa@espol.edu.ec)
