@@ -11,7 +11,12 @@
 
 ## Habilidades y tecnologías
 
-
+| Categoría | Tecnologías |
+|-----------|-------------|
+| Lenguajes | Python, Java, C, SQL |
+| Frontend | HTML, CSS |
+| Herramientas | Git, GitHub, VS Code |
+| Aprendiendo | JavaScript, TypeScript, React, Go |
 
 ## Proyectos destacados
 
