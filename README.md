@@ -1,19 +1,20 @@
 ![Banner estilo cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:3b0764,100:6b21a8&height=200&section=header&text=C%C3%A9sar%20Balladares&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20ESPOL&descAlignY=58&descSize=18)
 
-[![Texto animado: estudiante de Computación en ESPOL](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&vCenter=true&width=600&height=45&lines=Estudiante+de+Computaci%C3%B3n+en+ESPOL;Me+interesa+UX%2C+ciberseguridad+y+la+nube#gh-dark-mode-only)](https://github.com/CBalla-05)
+[![Texto animado: estudiante de Computación en ESPOL, aprendiendo React y TypeScript](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&vCenter=true&width=600&height=45&lines=Estudiante+de+Computaci%C3%B3n+en+ESPOL;Aprendiendo+React+y+TypeScript;Me+interesa+UX%2C+ciberseguridad+y+la+nube#gh-dark-mode-only)](https://github.com/CBalla-05)
 
 
 ---
 
-
 ## Sobre mí
 
-- Estudio Ingeniería en Ciencias de la Computación en la Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador.
-- Actualmente estoy aprendiendo React, JavaScript y TypeScript.
+- Estudio **Ingeniería en Ciencias de la Computación** en la **ESPOL**, Guayaquil, Ecuador.
+- Actualmente estoy aprendiendo **React, JavaScript y TypeScript**.
 - Me interesan el desarrollo web, el diseño UX, la ciberseguridad y la computación en la nube.
 - Busco poner en práctica lo que aprendo en proyectos reales y en trabajo en equipo.
 - **Idiomas:** español (nativo), inglés (B1) y quisiera aprender portugués.
 - **Fuera del código:** me gusta escuchar música, ver películas y jugar videojuegos.
+
+---
 
 ## Habilidades y tecnologías
 
@@ -31,49 +32,57 @@
 | Aprendiendo | JavaScript, TypeScript, React, Go |
 
 ---
+
 ## Proyectos destacados
 
-### Asistente educativo de errores para Go
-- **Problema que resuelve:** Ayuda a principiantes a aprender Go dando retroalimentación clara sobre los errores en su código.
-- **Tecnologías:** Python, Go, PLY.
-- **Funcionalidades principales:**
-  - Detecta errores léxicos, sintácticos, y semánticos.
-  - Responde con mensajes explicativos para principiantes.
-- **Mi rol:** Miembro del equipo de desarrollo.
-- **Repositorio:** [Ver código](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
-
-### Explorando la cultura con la web
-- **Problema que resuelve:** Da a conocer lugares emblemáticos y culturales de Guayaquil. El sitio se enfoca en la Biblioteca de las Artes, con información del lugar y de las actividades que se realizan allí.
-- **Tecnologías:** HTML, CSS, JavaScript.
-- **Funcionalidades principales:**
-  - Información general sobre la Biblioteca de las Artes.
-  - Actividades culturales que se realizan en el lugar.
-- **Mi rol:** Miembro del equipo de desarrollo.
-- **Repositorio:** [Ver código](https://github.com/CBalla-05/explorando-la-cultura-con-la-web)
-- **Demo:** [Ver demo](https://cballa-05.github.io/explorando-la-cultura-con-la-web/)
-
 ### Dashboard de ESPOL
-- **Problema que resuelve:** Facilita a los estudiantes organizar su vida académica en un solo lugar: planificar las materias del semestre, registrarse en ellas, consultar su horario e Historial estudiantil.
-- **Tecnologías:** Figma, React, CSS
+
+- **Problema que resuelve:** facilita a los estudiantes organizar su vida académica en un solo lugar: planificar las materias del semestre, registrarse en ellas, consultar su horario e historial estudiantil.
+- **Tecnologías:** Figma, React, CSS.
 - **Funcionalidades principales:**
   - Planificación de materias.
   - Registro en las materias.
   - Visualización del horario del estudiante.
-- **Mi rol:** Miembro del equipo de diseño y desarrollo
+- **Mi rol:** miembro del equipo de diseño y desarrollo.
 - **Demo:** [Ver demo](https://blink-ideate-66335033.figma.site/)
 
 ### ProyectoMD
-- **Problema que resuelve:** Enseña de forma práctica cómo funcionan los grafos, usando el sudoku como juego para visualizar nodos y aristas.
-- **Tecnologías:** React, Vite, JavaScript
+
+- **Problema que resuelve:** enseña de forma práctica cómo funcionan los grafos, usando el sudoku para visualizar nodos y aristas.
+- **Tecnologías:** React, Vite, JavaScript.
 - **Funcionalidades principales:**
-  - Muestra un grafo conectado con sus aristas que se va formando a medida que se colocan números en el sudoku.
-  - Detecta los errores: cuando un número se coloca mal, la arista correspondiente se pinta de azul.
-  - Explica el error al usuario: indica si el número se repite en la fila, en la columna o en el mismo subgrupo (cuadro).
+  - Muestra un grafo conectado que se forma a medida que se colocan números en el sudoku.
+  - Detecta errores: cuando un número se coloca mal, la arista correspondiente se pinta de azul.
+  - Explica el error: indica si el número se repite en la fila, en la columna o en el mismo cuadro.
   - Incluye un modo de autollenado que muestra cómo se genera el grafo mientras se completa el tablero.
-- **Mi rol:** Miembro del equipo de desarrollo
+- **Mi rol:** miembro del equipo de desarrollo.
 - **Repositorio:** [Ver código](https://github.com/JonathanRamos24/ProyectoMD)
+
+### Explorando la cultura con la web
+
+- **Problema que resuelve:** da a conocer lugares emblemáticos y culturales de Guayaquil. El sitio se enfoca en la Biblioteca de las Artes, con información del lugar y de las actividades que se realizan allí.
+- **Tecnologías:** HTML, CSS, JavaScript.
+- **Funcionalidades principales:**
+  - Información general sobre la Biblioteca de las Artes.
+  - Actividades culturales que se realizan en el lugar.
+- **Mi rol:** miembro del equipo de desarrollo.
+- **Repositorio:** [Ver código](https://github.com/CBalla-05/explorando-la-cultura-con-la-web)
+- **Demo:** [Ver demo](https://cballa-05.github.io/explorando-la-cultura-con-la-web/)
+
+### Asistente educativo de errores para Go
+
+- **Problema que resuelve:** ayuda a principiantes a aprender Go dando retroalimentación clara sobre los errores en su código.
+- **Tecnologías:** Python, Go, PLY.
+- **Funcionalidades principales:**
+  - Detecta errores léxicos, sintácticos y semánticos.
+  - Responde con mensajes explicativos para principiantes.
+- **Mi rol:** miembro del equipo de desarrollo.
+- **Repositorio:** [Ver código](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
+
+---
 
 ## Contacto
 
-- **LinkedIn:** [César Balladares](www.linkedin.com/in/césar-balladares-caicedo-54b984346)
-- **Correo:** [cesballa@espol.edu.ec](cesballa@espol.edu.ec)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-balladares-caicedo-54b984346)
+[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesballa@espol.edu.ec)
