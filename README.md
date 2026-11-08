@@ -17,6 +17,12 @@
 
 ## Habilidades y tecnologías
 
+![Python, Java, C, SQL, Git, GitHub, Figma y VS Code](https://skillicons.dev/icons?i=python,java,c,mysql,git,github,figma,vscode)
+
+**Aprendiendo ahora:**
+
+![ HTML, CSS, JavaScript, TypeScript, React y Go](https://skillicons.dev/icons?i=html,css,js,ts,react,go)
+
 | Categoría | Tecnologías |
 |-----------|-------------|
 | Lenguajes | Python, Java, C, SQL |
@@ -24,6 +30,7 @@
 | Herramientas | Git, GitHub, VS Code, Figma |
 | Aprendiendo | JavaScript, TypeScript, React, Go |
 
+---
 ## Proyectos destacados
 
 ### Asistente educativo de errores para Go
