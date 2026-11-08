@@ -1,4 +1,10 @@
-# Hola, soy César Balladares
+![Banner estilo cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:3b0764,100:6b21a8&height=200&section=header&text=C%C3%A9sar%20Balladares&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20ESPOL&descAlignY=58&descSize=18)
+
+[![Texto animado: estudiante de Computación en ESPOL](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&vCenter=true&width=600&height=45&lines=Estudiante+de+Computaci%C3%B3n+en+ESPOL;Me+interesa+UX%2C+ciberseguridad+y+la+nube#gh-dark-mode-only)](https://github.com/CBalla-05)
+
+
+---
+
 
 ## Sobre mí
 
