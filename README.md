@@ -9,7 +9,7 @@
 
 - Estudio **Ingeniería en Ciencias de la Computación** en la **ESPOL**, Guayaquil, Ecuador.
 - Actualmente estoy aprendiendo **React, JavaScript, TypeScript, y Go**.
-- Me interesan el desarrollo web, el diseño UX, la ciberseguridad y la computación en la nube.
+- Me interesan el desarrollo web, el diseño UX, la ciberseguridad, Linux y la computación en la nube.
 - Busco poner en práctica lo que aprendo en proyectos reales y en trabajo en equipo.
 - **Idiomas:** español (nativo), inglés (B1) y quisiera aprender portugués.
 - **Fuera del código:** me gusta escuchar música, ver películas y jugar videojuegos.
