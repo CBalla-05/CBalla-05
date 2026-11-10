@@ -1,18 +1,22 @@
 ![Banner estilo cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=0:3b0764,100:6b21a8&height=200&section=header&text=C%C3%A9sar%20Balladares&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20ESPOL&descAlignY=58&descSize=18)
 
-[![Texto animado: estudiante de Computación en ESPOL](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&vCenter=true&width=600&height=45&lines=Estudiante+de+Computaci%C3%B3n+en+ESPOL;Me+interesa+UX%2C+ciberseguridad+y+la+nube#gh-dark-mode-only)](https://github.com/CBalla-05)
+[![Texto animado: estudiante de Computación en ESPOL que busca pasantías y prácticas](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&vCenter=true&width=600&height=45&lines=Estudiante+de+Computaci%C3%B3n+en+ESPOL;Busco+pasant%C3%ADas+y+pr%C3%A1cticas;Me+interesa+UX%2C+ciberseguridad+y+la+nube#gh-dark-mode-only)](https://github.com/CBalla-05)
 
 
 ---
 
-## Sobre mí
+## 👋 Sobre mí
 
-- Estudio **Ingeniería en Ciencias de la Computación** en la **ESPOL**, Guayaquil, Ecuador.
-- Actualmente estoy aprendiendo **React, JavaScript, TypeScript y Go**.
-- Me interesan el desarrollo web, el diseño UX, la ciberseguridad, Linux y la computación en la nube.
-- Busco poner en práctica lo que aprendo en proyectos reales y en trabajo en equipo.
-- **Idiomas:** español (nativo), inglés (B1) y quisiera aprender portugués.
-- **Fuera del código:** me gusta escuchar música, ver películas y jugar videojuegos.
+Soy estudiante de **Ingeniería en Ciencias de la Computación** en la **ESPOL** (Guayaquil, Ecuador). Mi formación abarca desde interfaces web con React hasta programación de bajo nivel en Assembly, y me interesa aplicar lo que aprendo en proyectos reales y en equipos de trabajo.
+
+- 🎯 **Lo que busco:** una pasantía o prácticas preprofesionales donde pueda aportar con lo aprendido y seguir desarrollando mis habilidades técnicas en un entorno profesional.
+- 📚 **Aprendiendo ahora:** React, JavaScript, TypeScript y Go.
+- 💡 **Áreas de interés:** desarrollo full stack y móvil, diseño UX/UI, ciberseguridad, nube y DevOps, análisis de datos y Linux.
+- 🚀 **Objetivos a futuro:** profundizar en ciberseguridad y computación en la nube, y ampliar mis idiomas con el portugués.
+- 🌎 **Idiomas:** español (nativo) e inglés (B1).
+- 🎮 **Fuera del código:** música, películas y videojuegos.
+
+> 💬 Me interesa construir software eficiente y fácil de usar: optimizar algoritmos, comprender cómo se comunican los sistemas y diseñar interfaces intuitivas para cualquier persona.
 
 ---
 
@@ -20,7 +24,7 @@
 
 ![Python, Java, C, SQL, HTML, CSS, Git, GitHub, Figma y VS Code](https://skillicons.dev/icons?i=python,java,c,mysql,html,css,git,github,figma,vscode)
 
-**Aprendiendo ahora:**
+**📖 Aprendiendo ahora:**
 
 ![JavaScript, TypeScript, React y Go](https://skillicons.dev/icons?i=js,ts,react,go)
 
@@ -41,7 +45,7 @@ Otras tecnologías que conozco de otros cursos: Java, C, SQL y Assembly x86.
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
 ### 📊 Dashboard de ESPOL
 
