@@ -16,7 +16,7 @@
 
 ---
 
-## Habilidades y tecnologías
+## 🛠️ Habilidades y tecnologías
 
 ![Python, Java, C, SQL, HTML, CSS, Git, GitHub, Figma y VS Code](https://skillicons.dev/icons?i=python,java,c,mysql,html,css,git,github,figma,vscode)
 
@@ -81,9 +81,11 @@ Otras tecnologías que conozco de otros cursos: Java, C, SQL y Assembly x86.
 
 ---
 
-## Contacto
+## 📫 Contacto
 
 
 [![LinkedIn de César Balladares](https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-balladares-caicedo-54b984346)
 [![Correo de César Balladares](https://img.shields.io/badge/Correo-7E22CE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesballa@espol.edu.ec)
 [![GitHub de César Balladares](https://img.shields.io/badge/GitHub-3B0764?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CBalla-05)
+
+📧 **Correo:** [cesballa@espol.edu.ec](mailto:cesballa@espol.edu.ec)
